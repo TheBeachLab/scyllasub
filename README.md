@@ -3,7 +3,7 @@
 # Project Scylla
 
 ## Introduction
-Project Scylla is an international joint venture (India - Spain)
+Project Scylla is an international joint project (India - Spain) between fab labs. 
 
 ## Project goal
 Undisclosed
