@@ -10,7 +10,7 @@ Undisclosed
 
 ## Contributors
 Puneeth Raj (India)  
-Jordi Mestres (Spain)  
+Jordi Mestre (Spain)  
 Sibu Saman (India)  
 Francisco Sanchez (Spain)  
 Yadu Sharon (India)  
