@@ -1,4 +1,4 @@
-![](scyllalogo.svg)
+![](scyllalogo.png)
 
 # Project Scylla
 
