@@ -1,3 +1,5 @@
+![](documentation/scyllalogo.svg)
+
 # Project Scylla
 
 ## Introduction
