@@ -3,7 +3,7 @@
 # Project Scylla
 
 ## Introduction
-Project Scylla is an international joint project (India - Spain) between fab labs. 
+Project Scylla is an international joint project (India - Spain) between fab labs.
 
 ## Project goal
 Undisclosed
@@ -14,3 +14,4 @@ Jordi Mestre (Spain)
 Sibu Saman (India)  
 Francisco Sanchez (Spain)  
 Yadu Sharon (India)  
+Joan Vidal (Spain)  
