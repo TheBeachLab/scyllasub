@@ -21,7 +21,11 @@
 * 1 Electronics design
   * Sensing
   * Data acquisition (HD images)
+  * Battery Management circuit
+  * Controlling ROV (wired/ wireless)
 * 2 Coding
+* Debug button or Diagnostic utility
+
 
 ### Data processing
 * Cartography tools: Qgis...
@@ -38,6 +42,7 @@
 * Currents: unknown
 * Survey area shape: unknown
 * Altitude: unknown but will be limited
+* Suspended particles, fish (may objestruct maneuvering)
 
 ## Geo-Location
 In normal operation the messenger operates in dead-reckoning. When a precise location is required, the messenger pings to request position. Timer counter on. Pings must be sent at low frequency (less than a few hundred Hz).
