@@ -10,9 +10,9 @@ Undisclosed
 
 ## Contributors
 Jordi Mestre (Spain)  
-Puneeth Raj (India)
+Puneeth Raj (India)  
 Sibu Saman (India)  
 Francisco Sanchez (Spain)  
 Yadu Sharon (India)  
 Joan Vidal (Spain)  
-Yogesh Tamhane (India)
+Yogesh Tamhane (India)  
