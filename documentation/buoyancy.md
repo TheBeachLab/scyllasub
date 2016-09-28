@@ -1,4 +1,4 @@
-##  Buoyancy Control
+#  Buoyancy Control
 Usually, in a submarine the buoyancy is controlled with the help of ballast tanks, which can be filled with water or air to adjust the overall density of the vehicle. In submarines, this is done with the help of compressed air onboard. We need a ballast tank or we need to make sure that the vehicle's center of mass, at all times is lower, this is a must to ensure the stability (if we want the vehicle to have prefered orientation). We can lower the center of mass by moving all the heavy parts like the battery and other heavy parts like the main motor to the lower side of the vessel.
 
 Anyway these are the methods to control the buoyancy of the vessel I (sibu) can think about. Feel free to add or edit.
