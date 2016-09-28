@@ -1,3 +1,2 @@
 # Defense
-
-The ROV will need to protect itself against external attacks
+Anything related with ROB protection systems against external attacks
