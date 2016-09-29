@@ -17,3 +17,5 @@ Method 2 could be either slow or way too fast that it becomes dangerous. It may 
 A temperature dependent Reversible chemical reaction between gaseous chemical species, generating a massive or liquid/solid product, could be a novel concept, but we have to think about the energy consumption.
 
 Method 5 is also feasible, except the requirement for a high power/torque motor to power the piston and a strong cylinder and seal which can withstand the pressure.
+
+Whatever be the method, there has to be a redundant system which doesn't require power from main battery, this list to be used in case of emergency. I would consider something like a solid fuel/oxidiser mixture used in model rockets or some other chemicals in a cylinder/sphere, with it's own power and control circuits to be activated in case of an emergency. Activation of the chemical expels the water from the container and brings the Scylla to the surface.
