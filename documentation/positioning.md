@@ -9,3 +9,5 @@ The surface buoys receive the ping and ping back with scheduled delays. If buoys
 2 buoys -> circle  
 2 buoys + height -> 2 points  
 3 buoys -> 1 point
+
+Wikipedia entry about [Underwater acoustic positioning system](https://en.wikipedia.org/wiki/Underwater_acoustic_positioning_system)

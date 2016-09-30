@@ -17,4 +17,4 @@ Identify feature
 Debug routine or Diagnostic utility
 
 ## Subroutine 999
-This is an emergency routine to reach surface asap
+This is an emergency routine to stop whatever the rov is doing and reach surface asap
